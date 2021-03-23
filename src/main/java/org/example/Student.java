@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 public class Student {
     String name;
     String age;
-
+   String  test;
     School school;
 
     public School getSchool() {
